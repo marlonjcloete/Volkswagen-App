@@ -1,0 +1,19 @@
+Personal Information.
+----------------------------------------------------------
+FullName: Marlon Cloete
+ID Number: 80653489012
+Cell Number: 0795218011
+Gender: Male
+Occupation: Student
+Home Address: 15 Penny Lane
+Work Address: 17 Biscuit Ave
+Gross Pay: R1000
+Net Pay: R800
+Valid License: Yes
+Model: Polo
+
+Next Of Kin Information.
+-----------------------------------------------------------
+FullName: Steve Butcher
+Cell Nummber: 0613458900
+Relationship: Great Uncle
